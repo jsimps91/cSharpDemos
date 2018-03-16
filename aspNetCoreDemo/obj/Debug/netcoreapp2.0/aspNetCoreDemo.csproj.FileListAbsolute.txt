@@ -1,0 +1,10 @@
+/Users/jessicasimpson/Desktop/C#/demos/aspNetCoreDemo/bin/Debug/netcoreapp2.0/aspNetCoreDemo.deps.json
+/Users/jessicasimpson/Desktop/C#/demos/aspNetCoreDemo/bin/Debug/netcoreapp2.0/aspNetCoreDemo.runtimeconfig.json
+/Users/jessicasimpson/Desktop/C#/demos/aspNetCoreDemo/bin/Debug/netcoreapp2.0/aspNetCoreDemo.runtimeconfig.dev.json
+/Users/jessicasimpson/Desktop/C#/demos/aspNetCoreDemo/bin/Debug/netcoreapp2.0/aspNetCoreDemo.dll
+/Users/jessicasimpson/Desktop/C#/demos/aspNetCoreDemo/bin/Debug/netcoreapp2.0/aspNetCoreDemo.pdb
+/Users/jessicasimpson/Desktop/C#/demos/aspNetCoreDemo/obj/Debug/netcoreapp2.0/aspNetCoreDemo.csproj.CoreCompileInputs.cache
+/Users/jessicasimpson/Desktop/C#/demos/aspNetCoreDemo/obj/Debug/netcoreapp2.0/aspNetCoreDemo.AssemblyInfoInputs.cache
+/Users/jessicasimpson/Desktop/C#/demos/aspNetCoreDemo/obj/Debug/netcoreapp2.0/aspNetCoreDemo.AssemblyInfo.cs
+/Users/jessicasimpson/Desktop/C#/demos/aspNetCoreDemo/obj/Debug/netcoreapp2.0/aspNetCoreDemo.dll
+/Users/jessicasimpson/Desktop/C#/demos/aspNetCoreDemo/obj/Debug/netcoreapp2.0/aspNetCoreDemo.pdb

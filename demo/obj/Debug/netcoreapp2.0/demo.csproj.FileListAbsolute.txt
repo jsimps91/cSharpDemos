@@ -1,0 +1,10 @@
+/Users/jessicasimpson/Desktop/C#/demos/demo/bin/Debug/netcoreapp2.0/demo.deps.json
+/Users/jessicasimpson/Desktop/C#/demos/demo/bin/Debug/netcoreapp2.0/demo.runtimeconfig.json
+/Users/jessicasimpson/Desktop/C#/demos/demo/bin/Debug/netcoreapp2.0/demo.runtimeconfig.dev.json
+/Users/jessicasimpson/Desktop/C#/demos/demo/bin/Debug/netcoreapp2.0/demo.dll
+/Users/jessicasimpson/Desktop/C#/demos/demo/bin/Debug/netcoreapp2.0/demo.pdb
+/Users/jessicasimpson/Desktop/C#/demos/demo/obj/Debug/netcoreapp2.0/demo.csproj.CoreCompileInputs.cache
+/Users/jessicasimpson/Desktop/C#/demos/demo/obj/Debug/netcoreapp2.0/demo.AssemblyInfoInputs.cache
+/Users/jessicasimpson/Desktop/C#/demos/demo/obj/Debug/netcoreapp2.0/demo.AssemblyInfo.cs
+/Users/jessicasimpson/Desktop/C#/demos/demo/obj/Debug/netcoreapp2.0/demo.dll
+/Users/jessicasimpson/Desktop/C#/demos/demo/obj/Debug/netcoreapp2.0/demo.pdb

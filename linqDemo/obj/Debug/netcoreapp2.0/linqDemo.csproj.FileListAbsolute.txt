@@ -1,0 +1,10 @@
+/Users/jessicasimpson/Desktop/C#/demos/linqDemo/bin/Debug/netcoreapp2.0/linqDemo.deps.json
+/Users/jessicasimpson/Desktop/C#/demos/linqDemo/bin/Debug/netcoreapp2.0/linqDemo.runtimeconfig.json
+/Users/jessicasimpson/Desktop/C#/demos/linqDemo/bin/Debug/netcoreapp2.0/linqDemo.runtimeconfig.dev.json
+/Users/jessicasimpson/Desktop/C#/demos/linqDemo/bin/Debug/netcoreapp2.0/linqDemo.dll
+/Users/jessicasimpson/Desktop/C#/demos/linqDemo/bin/Debug/netcoreapp2.0/linqDemo.pdb
+/Users/jessicasimpson/Desktop/C#/demos/linqDemo/obj/Debug/netcoreapp2.0/linqDemo.csproj.CoreCompileInputs.cache
+/Users/jessicasimpson/Desktop/C#/demos/linqDemo/obj/Debug/netcoreapp2.0/linqDemo.AssemblyInfoInputs.cache
+/Users/jessicasimpson/Desktop/C#/demos/linqDemo/obj/Debug/netcoreapp2.0/linqDemo.AssemblyInfo.cs
+/Users/jessicasimpson/Desktop/C#/demos/linqDemo/obj/Debug/netcoreapp2.0/linqDemo.dll
+/Users/jessicasimpson/Desktop/C#/demos/linqDemo/obj/Debug/netcoreapp2.0/linqDemo.pdb

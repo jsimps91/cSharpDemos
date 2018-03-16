@@ -1,0 +1,10 @@
+/Users/jessicasimpson/Desktop/C#/demos/mvcDemo/bin/Debug/netcoreapp2.0/mvcDemo.deps.json
+/Users/jessicasimpson/Desktop/C#/demos/mvcDemo/bin/Debug/netcoreapp2.0/mvcDemo.runtimeconfig.json
+/Users/jessicasimpson/Desktop/C#/demos/mvcDemo/bin/Debug/netcoreapp2.0/mvcDemo.runtimeconfig.dev.json
+/Users/jessicasimpson/Desktop/C#/demos/mvcDemo/bin/Debug/netcoreapp2.0/mvcDemo.dll
+/Users/jessicasimpson/Desktop/C#/demos/mvcDemo/bin/Debug/netcoreapp2.0/mvcDemo.pdb
+/Users/jessicasimpson/Desktop/C#/demos/mvcDemo/obj/Debug/netcoreapp2.0/mvcDemo.csproj.CoreCompileInputs.cache
+/Users/jessicasimpson/Desktop/C#/demos/mvcDemo/obj/Debug/netcoreapp2.0/mvcDemo.AssemblyInfoInputs.cache
+/Users/jessicasimpson/Desktop/C#/demos/mvcDemo/obj/Debug/netcoreapp2.0/mvcDemo.AssemblyInfo.cs
+/Users/jessicasimpson/Desktop/C#/demos/mvcDemo/obj/Debug/netcoreapp2.0/mvcDemo.dll
+/Users/jessicasimpson/Desktop/C#/demos/mvcDemo/obj/Debug/netcoreapp2.0/mvcDemo.pdb

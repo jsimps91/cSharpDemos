@@ -1,0 +1,11 @@
+@model wrapperModelDemo.Models.UserViewModels
+
+<form asp-controller="Home" asp-action="Register" method="post">
+    <span asp-validation-for="Reg.Email"></span>
+    <input asp-for="Reg.Email">
+</form>
+
+<form asp-controller="Home" asp-action="Login" method="post">
+    <span asp-validation-for="Login.Email"></span>
+    <input asp-for="Login.Email">
+</form>

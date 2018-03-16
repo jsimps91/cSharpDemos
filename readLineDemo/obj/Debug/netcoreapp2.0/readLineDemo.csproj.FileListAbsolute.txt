@@ -1,0 +1,10 @@
+/Users/jessicasimpson/Desktop/C#/demos/readLineDemo/bin/Debug/netcoreapp2.0/readLineDemo.deps.json
+/Users/jessicasimpson/Desktop/C#/demos/readLineDemo/bin/Debug/netcoreapp2.0/readLineDemo.runtimeconfig.json
+/Users/jessicasimpson/Desktop/C#/demos/readLineDemo/bin/Debug/netcoreapp2.0/readLineDemo.runtimeconfig.dev.json
+/Users/jessicasimpson/Desktop/C#/demos/readLineDemo/bin/Debug/netcoreapp2.0/readLineDemo.dll
+/Users/jessicasimpson/Desktop/C#/demos/readLineDemo/bin/Debug/netcoreapp2.0/readLineDemo.pdb
+/Users/jessicasimpson/Desktop/C#/demos/readLineDemo/obj/Debug/netcoreapp2.0/readLineDemo.csproj.CoreCompileInputs.cache
+/Users/jessicasimpson/Desktop/C#/demos/readLineDemo/obj/Debug/netcoreapp2.0/readLineDemo.AssemblyInfoInputs.cache
+/Users/jessicasimpson/Desktop/C#/demos/readLineDemo/obj/Debug/netcoreapp2.0/readLineDemo.AssemblyInfo.cs
+/Users/jessicasimpson/Desktop/C#/demos/readLineDemo/obj/Debug/netcoreapp2.0/readLineDemo.dll
+/Users/jessicasimpson/Desktop/C#/demos/readLineDemo/obj/Debug/netcoreapp2.0/readLineDemo.pdb
