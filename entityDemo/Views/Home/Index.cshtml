@@ -1,0 +1,17 @@
+@model entityDemo.Models.Book
+<div class="container">
+    @foreach(var book in ViewBag.Books)
+    {
+        <h1>@book.Title</h1>
+        <h2>by @book.Author</h2>
+        <h3><a href="delete/@book.BookId" data-method="post">Delete</a></h3>
+    }
+    <form asp-controller="Home" asp-action="CreateBook" method="post">
+        <label>Title</label>
+        <input class="form-control" asp-for="Title">
+        <label>Author</label>
+        <input class="form-control" asp-for="Author">
+        <br>
+        <button class="btn btn-info">Add Book</button>
+    </form>
+</div>
