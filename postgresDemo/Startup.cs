@@ -26,7 +26,7 @@ namespace entityDemo
             // Add framework services.
             services.AddMvc();
             services.AddSession();
-            services.AddDbContext<BookContext>(options => options.UseMySql(Configuration["DBInfo:ConnectionString"]));
+            services.AddDbContext<BookContext>(options => options.UseNpgsql(Configuration["DBInfo:ConnectionString"]));
         }
 
         // This method gets called by the runtime. Use this method to configure the HTTP request pipeline.
